@@ -1,2 +1,2 @@
 # Database
-it is auction database project 
+It is auction database project 
